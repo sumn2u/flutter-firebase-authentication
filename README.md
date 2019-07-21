@@ -8,6 +8,13 @@ This project is integrated with Firebase for user authentication and contains al
 # Demo
 ![Demo](https://github.com/sumn2u/flutter-firebase-authentication/raw/master/screenshots/screenshot.gif)
 
+### Screenshots
+
+<img src="screenshots/Screenshot_1563706366.png" height="300em" /> <img src="screenshots/Screenshot_1563706399.png" height="300em" /><img src="screenshots/Screenshot_1563706425.png" height="300em" />
+<img src="screenshots/Screenshot_1563706438.png" height="300em" />
+<img src="screenshots/Screenshot_1563706451.png" height="300em" />
+
+
 # Features
 * Form Validation
 * Firebase Authentication
