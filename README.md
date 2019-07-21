@@ -6,7 +6,7 @@ An open-source flutter project which includes different authentication mechanism
 This project is integrated with Firebase for user authentication and contains all the basic features that are required to build an amazing Flutter app. 
 
 # Demo
-![Demo](https://github.com/sumn2u/flutter-firebase-authentication/raw/master/screenshots/screenshot.gif.gif)
+![Demo](https://github.com/sumn2u/flutter-firebase-authentication/raw/master/screenshots/screenshot.gif)
 
 # Features
 * Form Validation
